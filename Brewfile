@@ -24,9 +24,9 @@ brew "xz"
 brew "python3"
 brew "telnet"
 brew "zsh"
-brew "zsh-syntax-highlighting"
-cask "sqlitebrowser"
 mas "1Password", id: 443987910
+mas "AVG Cleaner", id: 667434228
+mas "OneDrive", id: 823766827
 mas "Slack", id: 803453959
 mas "The Unarchiver", id: 425424353
 mas "Tweetbot", id: 557168941

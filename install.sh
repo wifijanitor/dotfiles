@@ -21,7 +21,4 @@ chsh -s /usr/local/bin/zsh
 # We will run this last because this will reload the shell
 source macos.sh
 
-# PIP
-pip install appdirs certifi chardet idna jsonrpc packaging pip pyparsing regex requests setuptools six tabulate urllib3 wheel xmltodict
-
-sudo reboot
+echo "Done! you'll probably want to reboot so everything will be in effect"

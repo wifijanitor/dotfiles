@@ -7,7 +7,6 @@ brew "libksba"
 brew "pth"
 brew "dirmngr"
 brew "findutils", args: ["with-default-names"]
-brew "gdbm"
 brew "git"
 brew "gnu-sed", args: ["with-default-names"]
 brew "pinentry"
@@ -24,6 +23,8 @@ brew "xz"
 brew "python3"
 brew "telnet"
 brew "zsh"
+brew "zsh-completions"
+brew "zsh-syntax-highlighting"
 mas "1Password", id: 443987910
 mas "AVG Cleaner", id: 667434228
 mas "OneDrive", id: 823766827

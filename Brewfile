@@ -30,4 +30,4 @@ mas "AVG Cleaner", id: 667434228
 mas "OneDrive", id: 823766827
 mas "Slack", id: 803453959
 mas "The Unarchiver", id: 425424353
-mas "Tweetbot", id: 557168941
+mas "Tweetbot", id: 1384080005
